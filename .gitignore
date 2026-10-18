@@ -1,0 +1,11 @@
+# MATLAB and Simulink generated files
+slprj/
+*.slxc
+*.asv
+*.autosave
+*.m~
+*.slx.r20*
+
+# Local outputs
+*.log
+*.tmp
